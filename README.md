@@ -23,6 +23,10 @@ Documented development milestone: **13 November 2026**; target completion: **13 
 
 This review is separate from the agent-coordination experiments, unit-criterion theory, methods/negative-results paper, and deferred cross-species raw-data reanalysis. Existing repositories are not the authoritative protocol for this review.
 
+## Search audit
+
+[Independent search-gap audit, 16 November 2026](SEARCH_GAP_AUDIT_2026-11-16.md) identifies terminology, taxonomic, outcome and coverage vulnerabilities and a prioritized reconciliation register. Original record-level exports are still required to certify corpus omissions. Proposed query expansions are not yet validated or frozen.
+
 ## Reuse and versioning
 
 Team-authored documentation and blank templates: CC BY 4.0; see [LICENSE](LICENSE). Third-party sources retain their own rights. No source datasets, article full texts, or historical experiment artifacts are included. No executable analysis code is included yet.
