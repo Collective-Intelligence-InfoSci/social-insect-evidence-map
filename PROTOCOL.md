@@ -1,4 +1,4 @@
-# Review protocol v0.1
+# Review protocol v0.2
 
 **16 November 2026 — adopted working direction; pre-registration development.** Search validation, appraisal piloting, and outcome-specific statistical specification remain pending. This document is not a claim of preregistration or completed review work. Provenance is in [DECISIONS_AND_SOURCES.md](DECISIONS_AND_SOURCES.md).
 
@@ -12,6 +12,12 @@ Map and synthesize empirical evidence on behavioral specialization, worker inact
 
 The review does not assume specialization improves performance, inactive workers are reserves, or recruited activity restores output. Movement, activity, allocation, individual task efficiency, and colony output are distinct constructs. No blanket novelty claim is made; existing syntheses must be searched and compared.
 
+### Scientific rationale
+
+Specialization and performance cannot be equated: ant task-efficiency results (Dornhaus 2008) and wasp forager results (Santoro et al. 2019) motivate explicit extraction of the exposure and independently measured outcome. Likewise, replacing removed active ants (Charbonneau et al. 2017) or reallocating bumblebee foragers (Crall et al. 2018) does not by itself demonstrate recovery of completed work. Honeybee maturation research (Perry et al. 2015) motivates demographic and behavioral-transition search terms. In reports combining observations and simulation, observed behavior and predicted colony persistence must be separated (Hasegawa et al. 2016; Perry et al. 2015).
+
+Existing synthesis of colony-size efficiency and Michener's paradox (Jeanne et al. 2022) is relevant background and a citation-search source, but colony size or task integration alone is not individual behavioral specialization. Activity concentration within one task (Toledo et al. 2024) also requires separate coding. These sources motivate definitions and retrieval breadth; they are not a preselected included-study set or a conclusion about pooled effects. Full source links appear in [REFERENCES.md](REFERENCES.md).
+
 ## 2. Eligibility
 
 Include empirical studies of ants, termites, social bees and social wasps; other insects qualify only where cooperative colony organization and a relevant construct are documented. Include laboratory, semifield and field studies, coded separately. Do not infer social organization from a taxonomic label alone.
@@ -23,7 +29,7 @@ Maintain two evidence tiers:
 - **Descriptive map:** operationally measured specialization, inactivity or perturbation-related compensation, even when performance is absent. General social-insect tracking with no relevant measured construct is insufficient.
 - **Relationship synthesis:** the relevant exposure/contrast and a separately measured performance outcome, with interpretable design and sampling units. Descriptive prevalence cannot be used as an inactivity–performance association. Recruitment without output is behavioral compensation only, not demonstrated performance recovery.
 
-Experimental and observational studies qualify. Exclude simulations without empirical observations, artificial agents, robotics, non-insect collectives, nonsocial insects, opinion and review articles from primary evidence. Reviews and theory inform context and citation searching. In mixed reports, extract eligible empirical components only.
+Experimental and observational studies qualify. Exclude simulations without empirical observations, artificial agents, robotics, non-insect collectives, nonsocial insects, opinion and review articles from primary evidence. Reviews and theory inform context and citation searching. In mixed reports, extract eligible empirical components only. Record provenance at outcome level: empirical observation, simulation/model prediction, or unclear pending verification. Model-predicted persistence, collapse or productivity cannot enter the empirical evidence map as an observed performance endpoint.
 
 No publication-year restriction. Search without language or publication-status exclusions; seek reliable translation. Include preprints, theses and unpublished studies when methods/results permit assessment. Record reports awaiting translation or author information separately. Abstract-only records without adequate methods/results cannot enter quantitative synthesis. Link articles, preprints, theses and deposits from the same study family; count independent studies, not reports.
 
@@ -47,7 +53,7 @@ Report flow counts for occurrences, records, reports and study families. A paper
 
 Use [EXTRACTION_AND_APPRAISAL.md](EXTRACTION_AND_APPRAISAL.md) and the blank templates. Pilot extraction/appraisal on 10 diverse eligible studies before full extraction; revise definitions and recheck pilot entries. One reviewer extracts descriptive data and the other verifies against the source. Two reviewers independently extract all numerical inputs for any pooled analysis and independently appraise quality; reconcile differences and retain provenance (page/table/figure).
 
-Extract sample size at each level, colony/species/study dependence, observation length and thresholds, task/outcome definitions, perturbation and comparator details, effect estimates and uncertainty. Record unavailable data as missing, not zero. Contact authors where necessary, logging requests and responses. Any digitization or reconstruction must retain its source, formula, uncertainty assumptions and human verification.
+Extract sample size at each level, colony/species/study dependence, observation length and thresholds, task/outcome definitions, outcome provenance, single-task activity concentration versus multi-task specialization, task integration versus individual specialization, perturbation and comparator details, effect estimates and uncertainty. Record unavailable data as missing, not zero. Contact authors where necessary, logging requests and responses. Any digitization or reconstruction must retain its source, formula, uncertainty assumptions and human verification.
 
 Assess domains rather than an aggregate score: sampling/selection, allocation and baseline comparability, confounding, measurement validity, temporal alignment, missingness, selective reporting, and statistical independence. Use low concern / some concern / high concern / unclear / not applicable, with reasons and source locations. Domain judgments guide limitations and sensitivity analyses rather than post hoc favorable-study selection.
 
@@ -82,3 +88,7 @@ Greg is review lead and OSF administrator; Daniel and Nitika jointly coordinate 
 Outputs: registered protocol, search logs and strategies, screening decisions, extraction dictionary/table, evidence map, quality assessments, synthesis code where applicable, manuscript, and documented gaps. Release only rights-cleared materials under the appropriate licenses. Team-authored materials use CC BY 4.0; future original code is intended for MIT, with its own license when created.
 
 Publish the OSF registration after readiness checks and explicit submission authorization. Record amendments with date, rationale, affected fields and stage of evidence exposure; never silently rewrite the registered historical plan.
+
+### v0.2 development amendment
+
+On 16 November 2026, the PI approved incorporating the search-gap audit: expanded retrieval routes, literature-backed rationale and outcome-provenance coding. Selected published results were inspected during development; no database recall validation, full screening, effect extraction or pooled analysis was performed by this amendment. See the decision log and audit for limitations.

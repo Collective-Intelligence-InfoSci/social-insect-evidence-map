@@ -37,3 +37,7 @@ This systematic review and evidence map examines behavioral specialization, work
 ## Workspace and registration
 
 Use GitHub for editable working documents and OSF for a dated registered protocol. Current transition guidance reports new OSF projects/components unavailable from 16 November 2026 and existing projects becoming read-only 19 February 2027, while registrations continue. Recheck guidance when filing: [COS transition](https://www.cos.io/osf-changes), [OSF project transition](https://help.osf.io/article/759-details-of-osf-projects-transition), [registration questions](https://help.osf.io/article/768-osf-projects-transition-registration-questions-and-use-cases). A registration is not a substitute for an editable analysis workspace.
+
+## Approved v0.2 handoff
+
+Transfer the revised scientific background, expanded P/A/B/C1/C2/C3 searches, candidate-sentinel caveats and outcome-provenance/construct coding. Cite original studies for scientific claims and commit-pinned GitHub documents for protocol decisions. Original corpus reconciliation, database validation, pilots, contributor account matching and the outcome-specific statistical plan remain unresolved. The audit is search-development work, not evidence that every initial-search gap has been closed.

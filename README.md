@@ -12,6 +12,7 @@ Greg is review lead, OSF administrator, protocol coordinator, and disagreement a
 
 ## Documents
 
+- [References](REFERENCES.md): scientific rationale and methods sources.
 - [Protocol](PROTOCOL.md): scope, methods, safeguards, outputs.
 - [Search strategies](SEARCH_STRATEGY.md): draft database queries and validation procedure.
 - [Extraction and appraisal](EXTRACTION_AND_APPRAISAL.md): coding rules and quality domains.
@@ -25,7 +26,7 @@ This review is separate from the agent-coordination experiments, unit-criterion 
 
 ## Search audit
 
-[Independent search-gap audit, 16 November 2026](SEARCH_GAP_AUDIT_2026-11-16.md) identifies terminology, taxonomic, outcome and coverage vulnerabilities and a prioritized reconciliation register. Original record-level exports are still required to certify corpus omissions. Proposed query expansions are not yet validated or frozen.
+[Independent search-gap audit, 16 November 2026](SEARCH_GAP_AUDIT_2026-11-16.md) identifies terminology, taxonomic, outcome and coverage vulnerabilities and a prioritized reconciliation register. Original record-level exports are still required to certify corpus omissions. Approved query expansions are incorporated in v0.2 for validation; they are not yet validated or frozen.
 
 ## Reuse and versioning
 

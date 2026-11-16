@@ -39,4 +39,6 @@ Complete independent eligibility screening, full effect extraction and a pool-re
 
 - 2026-11-16, v0.1: consolidated current PI-approved scope and roles; added evidence tiers, search-validation procedure, coding/appraisal rules, rights separation and registration gates. No searches, screening or analysis executed by this documentation change.
 
+- 2026-11-16, v0.2: PI approved the audit-driven search expansions, scientific rationale and outcome-level empirical/model provenance coding. Selected published findings were inspected before this amendment; candidate corpus omissions remain unverified. Queries are adopted for validation, not frozen or executed. No formal screening or pooled analysis was performed. Synchronize the editable OSF draft; do not submit.
+
 Future entries must include change, rationale, timing, evidence exposure and corresponding OSF amendment if registered. Preserve earlier protocol versions in Git.

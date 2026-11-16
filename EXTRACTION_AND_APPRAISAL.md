@@ -1,4 +1,4 @@
-# Extraction dictionary and appraisal v0.1
+# Extraction dictionary and appraisal v0.2
 
 Blank templates contain no study results. Pilot and freeze coding instructions before full extraction.
 
@@ -13,6 +13,8 @@ Blank templates contain no study results. Pilot and freeze coding instructions b
 - `specialization_definition`: index, formula, tasks, behavioral versus morphological/age basis, observation window.
 - `inactivity_definition`: threshold, denominator, interval, behavior versus movement, visible/unobserved status. Unobserved is not inactive.
 - `perturbation`, `compensation_measure`: what was altered, baseline, recovery window, recruitment origin if tracked, output evidence.
+- `outcome_provenance`: empirical observation / simulation or model prediction / unclear pending verification, coded per outcome. Extract only verified empirical components into primary evidence; model-derived colony persistence is not observed performance.
+- `allocation_construct`: multi-task behavioral specialization / single-task activity concentration / task integration / other, with operational definition. Do not convert workload concentration into specialization by assumption.
 - `outcome_definition`, `outcome_level`, `outcome_unit`: distinguish movement/activity/allocation from individual efficiency and colony output; retain direction and denominator.
 - `n_studies`, `n_species`, `n_colonies`, `n_individuals`, `n_observations`: retain nesting; repeated observations do not increase independent colony count.
 - `effect_metric`, `estimate`, `uncertainty_type`, `uncertainty_value`, `sample_sizes`: original reported values and units before conversion. Add row-level contrasts/outcomes as needed.
