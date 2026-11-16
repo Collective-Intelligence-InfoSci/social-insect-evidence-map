@@ -6,7 +6,7 @@ A systematic review and evidence map, with quantitative synthesis only where stu
 
 ## Team
 
-Greg Chism, Daniel Charbonneau ([ORCID](https://orcid.org/0000-0002-9537-4763)), and Nitika Sharma ([ORCID](https://orcid.org/0000-0002-7411-5594)). All: College of Information Science, University of Arizona (PI-confirmed).
+Greg Chism ([ORCID](https://orcid.org/0000-0002-5478-2445)), Daniel Charbonneau ([ORCID](https://orcid.org/0000-0002-9537-4763)), and Nitika Sharma ([ORCID](https://orcid.org/0000-0002-7411-5594)). All: College of Information Science, University of Arizona (PI-confirmed).
 
 Greg is review lead, OSF administrator, protocol coordinator, and disagreement adjudicator. Daniel and Nitika jointly coordinate synthesis/statistics and conduct screening, extraction, verification, and quality assessment. Roles were confirmed by Greg on 16 November 2026. Authorship order is not established by this listing.
 
